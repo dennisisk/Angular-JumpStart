@@ -298,5 +298,17 @@
     "id": 50,
     "name": "Wyoming",
     "abbreviation": "WY"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c10",
+    "id": 51,
+    "name": "Ontario",
+    "abbreviation": "ON"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c11",
+    "id": 52,
+    "name": "British Columbia",
+    "abbreviation": "BC"
   }
 ]
